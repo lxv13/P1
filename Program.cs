@@ -7,13 +7,11 @@ namespace УП_ПП1
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
-            Address tom = new Address();
-            string addressCity = tom.city;
-            string addressStreet = tom.street;
-            int addressNumber = tom.number;
-            tom.city = "Полоцк";
-            tom.street = "Октябрьская";
-            tom.number = 57;
+            string addressCity = "Полоцк"; string addressStreet = "Октябрьская"; int addressNumber = 57;
+            Address tom = new Address( addressCity,  addressStreet,  addressNumber); 
+            addressCity = tom.city;
+            addressStreet = tom.street;
+            addressNumber = tom.number;
             tom.Print();
         }
     }
@@ -22,6 +20,7 @@ namespace УП_ПП1
         public string city="Undefined";
         public string street="Undefined";
         public int number=0;
+        public Address(string c, string s, int n) { city = c; street = s; number = n; }
 
         public void Print()
         {

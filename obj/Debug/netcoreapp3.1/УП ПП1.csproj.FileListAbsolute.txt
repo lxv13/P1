@@ -12,3 +12,17 @@ C:\Users\mopva\source\repos\УП ПП1\УП ПП1\obj\Debug\netcoreapp3.1\УП �
 C:\Users\mopva\source\repos\УП ПП1\УП ПП1\obj\Debug\netcoreapp3.1\УП ПП1.dll
 C:\Users\mopva\source\repos\УП ПП1\УП ПП1\obj\Debug\netcoreapp3.1\УП ПП1.pdb
 C:\Users\mopva\source\repos\УП ПП1\УП ПП1\obj\Debug\netcoreapp3.1\УП ПП1.genruntimeconfig.cache
+C:\Users\mopva\source\repos\Pract1\Pract1\bin\Debug\netcoreapp3.1\УП ПП1.exe
+C:\Users\mopva\source\repos\Pract1\Pract1\bin\Debug\netcoreapp3.1\УП ПП1.deps.json
+C:\Users\mopva\source\repos\Pract1\Pract1\bin\Debug\netcoreapp3.1\УП ПП1.runtimeconfig.json
+C:\Users\mopva\source\repos\Pract1\Pract1\bin\Debug\netcoreapp3.1\УП ПП1.runtimeconfig.dev.json
+C:\Users\mopva\source\repos\Pract1\Pract1\bin\Debug\netcoreapp3.1\УП ПП1.dll
+C:\Users\mopva\source\repos\Pract1\Pract1\bin\Debug\netcoreapp3.1\УП ПП1.pdb
+C:\Users\mopva\source\repos\Pract1\Pract1\obj\Debug\netcoreapp3.1\УП ПП1.csproj.AssemblyReference.cache
+C:\Users\mopva\source\repos\Pract1\Pract1\obj\Debug\netcoreapp3.1\УП ПП1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mopva\source\repos\Pract1\Pract1\obj\Debug\netcoreapp3.1\УП ПП1.AssemblyInfoInputs.cache
+C:\Users\mopva\source\repos\Pract1\Pract1\obj\Debug\netcoreapp3.1\УП ПП1.AssemblyInfo.cs
+C:\Users\mopva\source\repos\Pract1\Pract1\obj\Debug\netcoreapp3.1\УП ПП1.csproj.CoreCompileInputs.cache
+C:\Users\mopva\source\repos\Pract1\Pract1\obj\Debug\netcoreapp3.1\УП ПП1.dll
+C:\Users\mopva\source\repos\Pract1\Pract1\obj\Debug\netcoreapp3.1\УП ПП1.pdb
+C:\Users\mopva\source\repos\Pract1\Pract1\obj\Debug\netcoreapp3.1\УП ПП1.genruntimeconfig.cache
